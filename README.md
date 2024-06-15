@@ -1,6 +1,6 @@
 # Museum of Modern Art Collections Web Gallery	(Python)							  	        
           
-# Developed a web application with the Streamlit library for 100,000+ art collections with HTTPS JSON format from the MoMA API.
+## Developed a web application with the Streamlit library for 480,000+ art collections with HTTPS JSON format from the MoMA API.
 
 For deatiled information about the MoMA API:
 https://www.moma.org/collection/
